@@ -1,4 +1,4 @@
-# Kaggle Data Science Bowl 2019 - 104th solution
+# Kaggle Data Science Bowl 2019 - 104th solution by [Y. O.](https://www.kaggle.com/yuooka)
 This repository contains scripts for 104th place in kaggle competition, "[Data Science Bowl 2019](https://www.kaggle.com/c/data-science-bowl-2019)."
 # Overview
 ### 1. Feature engineering
