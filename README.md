@@ -10,3 +10,6 @@ This repository contains scripts for 104th place in kaggle competition, "[Data S
 ### 4. Build model
   - LightGBM is the first choice
   - Custom weighted metric for this competition is developed
+  
+# Overall pipeline
+![DSB2019_2](https://user-images.githubusercontent.com/60316115/73186790-aee48100-4163-11ea-92d5-20401585de9a.png)
